@@ -9,6 +9,27 @@ Used in a Udacity course in the Beginning Android Nanodegree.
 More info on the USGS Earthquake API available at:
 http://earthquake.usgs.gov/fdsnws/event/1/
 
+------------------
+
+##Learning Outcomes
+
+###Lesson 1
+- Overview of JSON
+- How to parse JSON in Android
+
+###Lesson 2
+- Permissions in Android
+- Getting data from the Internet using HTTP Requests
+
+###Lesson 3
+- Working with threads. Main Thread vs Background Thread
+- AsyncTask and Loaders
+
+###Lesson 4
+- Preferences for App Settings
+
+------------------
+
 Pre-requisites
 --------------
 
